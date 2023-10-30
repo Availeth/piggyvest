@@ -1,0 +1,235 @@
+.navvmargin{
+    margin-left: 20em;
+}
+.circlemmm{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
+} 
+
+.bton:hover{
+    background-color: green;
+    transform: rotate(20deg);
+    transform: translatex(250px);
+ }
+
+.text1{
+    text-align: start;
+    font-size: 65px;
+    font-style: bold;
+}
+p{
+    text-align: start;
+}
+.sd1{
+    margin-top: 20vh;
+    text-align: start;
+    display: block;
+    justify-content:left;
+}
+.sd2{
+    margin-top: 50vh;
+    margin-bottom: 30vh;
+    text-align: start;
+    display: flex;
+    justify-content:center;
+}
+.sd3{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.sd4{
+    margin-top: 20vh;
+    text-align: start;
+    display: flex;
+    justify-content:left;
+}
+
+.cardSize{
+    width: 300px;
+    height: 20px;
+}
+
+ .img1{
+    position: absolute;
+    right: 170px;
+    top: 25vh;
+ }
+
+ .rectline{
+    z-index: -1;
+    position: absolute;
+    right: 120px;
+    bottom: 75px;
+     }
+
+    .download-btn {
+        position: relative;
+        top: .5px;
+        color: #0c1825!important;
+        padding: 14.5px 16px!important;
+        border: 1px solid #ddd!important;
+        border-radius: 12px!important;
+        -webkit-transition: all .3s ease-in-out;
+        -moz-transition: all .3s ease-in-out;
+        transition: all .3s ease-in-out;
+        font-weight: 500;
+        width: 53px;
+        white-space: nowrap;
+        height: 53px;
+    }
+
+    .cross{
+        position: absolute;
+        top: 21vh;
+        right: 34.5vw;
+    }
+
+    .float{
+        width: 15%;
+        height: 15%;
+        position: absolute;
+        top: 40vh;
+        right: 33vw;
+    }
+
+    .floa1{
+        width: 15%;
+        height: 15%;
+        position: absolute;
+        top: 70vh;
+        right: 5vw;
+    }
+
+    .circle1{
+        position: absolute;
+        top: 40vh;
+        left: 86.5vw;
+    }
+
+    .dot{
+        position: absolute;
+        top: 65vh;
+        left: 62vw;
+    }
+    
+#ways4{
+    font-size: 30pt;
+}
+.section3left{
+    padding-left: 200px;
+    text-align: start;
+    display: block;
+    justify-content:left;
+}
+.section4img{
+    padding-left: 300px;
+}
+
+.section4text{
+    padding-right: 400px;
+}
+
+.section4btn{
+    margin-bottom: 30px;
+    padding: 10.5px 25px!important;
+    background-color: #f8f0ff;
+    color: #7914e5;
+    border-radius: 20px;
+    width: max-content;
+    height: max-content;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+.circle2{
+    z-index: -1;
+    position: relative;
+        bottom: 380px;
+        left: -150px;
+
+}
+
+.section5left{
+    width: 100vw;
+    height: 50vh;
+    color: white;
+}
+.sd6{
+    text-align: start;
+    display: block;
+    justify-content:left;
+}
+
+.download-btn2 {
+    /* position: relative; */
+    /* top: .5px; */
+    color: #0c1825!important;
+    padding: 14.5px 16px!important;
+    border: 1px solid #ddd!important;
+    border-radius: 12px!important;
+    transition: all .3s ease-in-out;
+    font-weight: 500;
+    width: 53px;
+    white-space: nowrap;
+    height: 53px;
+}
+
+.section-7{
+    margin-top: 15vh;
+    display: flex;
+    justify-content: flex-start;
+    background-color: #f9f9f9;
+    padding: 100px 150px!important;
+    font-size: small;
+}
+
+.footertext{
+    font-size: small;
+}
+
+
+
+.glass{
+background: rgba(255, 255, 255, 0.2);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.cardmarquee{
+    width: 600px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: #e9eef0cf;
+     padding: 10px;
+     margin-top: 30px;
+
+
+}
+
+.imagemarq{
+    width: 60px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgb(106, 56, 7);
+    margin: 10 20 30 -50 ;
+}
+
+.marqueespace{
+    height: 300px;
+}
+
+a{
+    text-decoration: none;
+    color: #000000;
+}

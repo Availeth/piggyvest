@@ -1,0 +1,62 @@
+body{
+    background-color: #062863;
+}
+.hdd{
+    font: 24px;
+    color: #083e9e;
+    font-family: U8, sans-serif;
+}
+.formnw{
+    background-color: white;
+    width: 600px;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    right: 30%;
+    padding: 30px;
+    border-radius: 20px 20px 20px 0px;
+    margin: 70px;
+}
+.btmtext{
+    position: absolute;
+    bottom: 500%;
+    left: 30%;
+    padding: 30px;
+}
+
+
+.logo{
+    position: absolute;
+    top: 10%;
+    left: 45%;
+    padding: 30px;
+}
+
+.blue{
+    position: fixed;
+    top: -190px;
+    left:-40px;
+    width: 20%;
+
+}
+
+.green{
+    position: fixed;
+    top: -40px;
+    left: 1200px;
+    width: 20%;
+}
+
+.pink{
+    position: fixed;
+    bottom: -190px;
+    left:-40px;
+    width: 20%;
+}
+
+.purple{
+    position: fixed;
+    bottom: -100px;
+    left: 1200px;
+    width: 20%;
+}
